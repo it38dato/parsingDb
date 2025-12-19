@@ -1,0 +1,7 @@
+mysql-connector-python==9.5.0
+pandas==2.2.3
+SQLAlchemy==2.0.44
+openpyxl==3.1.5
+pyxlsb==1.0.10
+
+db-sqlite3==0.0.1
