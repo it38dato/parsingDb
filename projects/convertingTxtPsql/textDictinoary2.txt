@@ -1,0 +1,1879 @@
+Task:
+- (-)
+Translation of the Task:
+-
+Decision:
+-
+Translation of the Decision:
+-
+
+Task:
+облачные технологии
+Translation of the Task:
+-
+Decision:
+Облачные платформы позволяют арендовать IT-ресурсы: серверы, базы данных, IP-адреса, сетевую инфраструктуру или даже нейросети.
+Translation of the Decision:
+-
+Task:
+СУБД
+Translation of the Task:
+-
+Decision:
+обеспечивают мониторинг работы хостов и БД, обновление ПО, репликацию данных между хостами кластера, резервное копирование БД
+Translation of the Decision:
+-
+Task:
+jenkins
+Translation of the Task:
+-
+Decision:
+программная система, предназначенная для обеспечения процесса непрерывной интеграции программного обеспечения.
+Translation of the Decision:
+-
+Task:
+gitlab CI
+Translation of the Task:
+-
+Decision:
+встроенный инструмент, для автоматизации рутинных задач, возникающих в процессе разработки ПО.
+Translation of the Decision:
+-
+Task:
+ругаться, материться, клясться
+Translation of the Task:
+swear, swore, sworn
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+трястись, жать руку
+Translation of the Task:
+shake, shook, shaken
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+вести, приводить
+Translation of the Task:
+lead, led, led
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+иметь дело, решить
+Translation of the Task:
+deal, dealt, dealt
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+запрещать
+Translation of the Task:
+forbid, forbade, forbidden
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+повесить, висеть
+Translation of the Task:
+hang, hung, hung
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+звонить
+Translation of the Task:
+ring, rang, rung
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+вонять
+Translation of the Task:
+stink, stank/stunk, stunk
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+бить
+Translation of the Task:
+beat, beat, beaten
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+кусать
+Translation of the Task:
+bite, bit, bitten
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+приносить
+Translation of the Task:
+bring, brought, brought
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+ловить
+Translation of the Task:
+catch, caught, caught
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+стоить
+Translation of the Task:
+cost, cost, cost
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+резать
+Translation of the Task:
+cut, cut, cut
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+падать
+Translation of the Task:
+fall, fell, fallen
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+кормить 
+Translation of the Task:
+feed, fed, fed
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+драться, бороться, ссориться
+Translation of the Task:
+fight, fought, fought
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+прятаться
+Translation of the Task:
+hide, hid, hidden
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+ударять
+Translation of the Task:
+hit, hit, hit
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+держать
+Translation of the Task:
+hold, held, held
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+болеть, ушибить, причинить боль
+Translation of the Task:
+hurt, hurt, hurt
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+хранить
+Translation of the Task:
+keep, kept, kept
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+уезжать, уходить, покидать
+Translation of the Task:
+leave, left, left
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+давать взаймы
+Translation of the Task:
+lend, lent, lent
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+позволять
+Translation of the Task:
+let, let, let
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+лежать
+Translation of the Task:
+lie, lay, lain
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+иметь ввиду
+Translation of the Task:
+mean, meant, meant
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+класть
+Translation of the Task:
+put, put, put
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+продавать
+Translation of the Task:
+sell, sold, sold
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+посылать
+Translation of the Task:
+send, sent, sent
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+тратить, проводить
+Translation of the Task:
+spend, spent, spent
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+воровать
+Translation of the Task:
+steal, stole, stolen
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+бросать
+Translation of the Task:
+throw, threw, thrown
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+быть
+Translation of the Task:
+be, wes/were, been
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+становиться
+Translation of the Task:
+become, became, become
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+начинать
+Translation of the Task:
+begin, began, begun
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+ломать
+Translation of the Task:
+break, broke, broken
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+строить
+Translation of the Task:
+build, built, built
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+покупать
+Translation of the Task:
+buy, bought, bought
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+мочь, уметь
+Translation of the Task:
+can, could
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+выбирать
+Translation of the Task:
+choose, chose, chosen
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+приходить, приезжать
+Translation of the Task:
+come, came, come
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+делать
+Translation of the Task:
+do, did, done
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+рисовать
+Translation of the Task:
+карандашом)
+Translation of the Task:
+draw, drew, drawn
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+пить
+Translation of the Task:
+drink, drank, drunk
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+водить машину
+Translation of the Task:
+drive, drove, driven
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+есть
+Translation of the Task:
+eat, ate, eaten
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+чувствовать
+Translation of the Task:
+feel, felt, felt
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+находить
+Translation of the Task:
+find, found, found
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+быть впору
+Translation of the Task:
+fit, fit, fit
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+летать
+Translation of the Task:
+fly, flew, flown
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+забывать
+Translation of the Task:
+forget, forgot, forgotten
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+прощать
+Translation of the Task:
+forgive, forgave, forgiven
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+замерзать
+Translation of the Task:
+freeze, froze, frozen
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+получать
+Translation of the Task:
+get, got, got
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+давать
+Translation of the Task:
+give, gave, given
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+идти, ехать
+Translation of the Task:
+go, went, gone
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+расти
+Translation of the Task:
+grow, grew, grown
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+иметь
+Translation of the Task:
+have, had, had
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+слышать
+Translation of the Task:
+hear, heard, heard
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+знать
+Translation of the Task:
+know, knew, known
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+терять
+Translation of the Task:
+lose, lost, lost
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+делать
+Translation of the Task:
+make, made, made
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+встречать
+Translation of the Task:
+meet, met, met
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+платить
+Translation of the Task:
+pay, paid, paid
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+читать
+Translation of the Task:
+read, read, read
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+ездить
+Translation of the Task:
+верхом)
+Translation of the Task:
+ride, rode, ridden
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+бежать
+Translation of the Task:
+run, ran, run
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+сказать
+Translation of the Task:
+say, said, said
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+видеть
+Translation of the Task:
+see, saw, seen
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+стрелять
+Translation of the Task:
+shut, shot, shot
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+показывать
+Translation of the Task:
+show, showed, shown
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+петь
+Translation of the Task:
+sing, sang, sung
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+сидеть
+Translation of the Task:
+sit, sat, sat
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+спать
+Translation of the Task:
+sleep, slept, slept
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+говорить
+Translation of the Task:
+speak, spoke, spoken
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+стоять
+Translation of the Task:
+stand, stood, stood
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+плавать
+Translation of the Task:
+swim, swam, swum
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+брать
+Translation of the Task:
+take, took, taken
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+преподавать, учим кого-то
+Translation of the Task:
+teach, taught, taught
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+рассказывать
+Translation of the Task:
+tell, told, told
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+думать
+Translation of the Task:
+think, thought, thought
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+понимать
+Translation of the Task:
+understand, understood, understood
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+просыпаться
+Translation of the Task:
+wake, woke, woken
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+носить одежду
+Translation of the Task:
+wear, wore, worn
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+выигрывать
+Translation of the Task:
+win, wan, wun
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+писать
+Translation of the Task:
+write, wrote, written
+Decision:
+-
+Translation of the Decision:
+-
+Task:
+Сотовая связь
+Translation of the Task:
+-
+Decision:
+одна из разновидностей радиосвязи, в которой абоненты связываются друг с другом с помощью сети базовых станций, принимающих и ретранслирующих сигнал от приемопередатчиков пользователей.
+Translation of the Decision:
+-
+Task:
+цифровая сотовая связь (GSM)
+Translation of the Task:
+-
+Decision:
+Сети 2G используется для передачи голосового трафика и передачи пакетных данных.
+Translation of the Decision:
+-
+Task:
+GSM, CDMA
+Translation of the Task:
+-
+Decision:
+Основныe стандарты связи в сетях второго поколения. 
+Translation of the Decision:
+-
+Task:
+широкополосная цифровая сотовая связь 3G (UMTS) 
+Translation of the Task:
+-
+Decision:
+коммутируемая многоцелевыми компьютерными сетями, в том числе Интернет. Это набор сервисов, которые построены по принципу пакетной передачи данных. 
+Translation of the Decision:
+-
+Task:
+WCDMA
+Translation of the Task:
+-
+Decision:
+множественного широкополосного доступа с кодовым разделением каналов
+Translation of the Decision:
+-
+Task:
+Стандарт UMTS 
+Translation of the Task:
+-
+Decision:
+использует технологию WCDMA, что позволяет развивать скорость передачи данных до 42 Мбит/с. 
+Translation of the Decision:
+-
+Task:
+UMTS
+Translation of the Task:
+Universal Mobile Telecommunications System
+Decision:
+технология сотовой связи разработанная для внедрения 3G в Европе. 
+Translation of the Decision:
+-
+Task:
+Сети 4G (LTE)
+Translation of the Task:
+-
+Decision:
+Cотовой связи с высокой скоростью передачи данных и повышенными требованиями к передаче голосового трафика. 
+Translation of the Decision:
+-
+Task:
+LTE, WIMAX
+Translation of the Task:
+-
+Decision:
+технологии передачи данных Сети четвертого поколения.
+Translation of the Decision:
+-
+Task:
+NodeB
+Translation of the Task:
+-
+Decision:
+базовая станция сети стандарта UMTS, отвечает за создание покрытия сети сотовой связи, логически соответствует BTS сети стандарта GSM.
+Translation of the Decision:
+-
+Task:
+RNC
+Translation of the Task:
+Radio Network Controller
+Decision:
+контроллер сети доступа сети сотовой связи стандарта UMTS. 
+Translation of the Decision:
+-
+Task:
+Модель OSI
+Translation of the Task:
+-
+Decision:
+Модель взаимодействия открытых систем описывает, как устройства в локальных и глобальных сетях обмениваются данными и что происходит с этими данными.
+Translation of the Decision:
+-
+Task:
+Модель OSI Прикладной
+Translation of the Task:
+-
+Decision:
+Доступ к сетевым службам (HTTP, FTP, POP3, SMTP, WebSocket). Хосты (клиенты сети), Межсетевой экран. Данные
+Translation of the Decision:
+-
+Task:
+Модель OSI Представления
+Translation of the Task:
+-
+Decision:
+Представление и шифрование данных (ASCII, EBCDIC, SSL, gzip). Хосты (клиенты сети), Межсетевой экран. Данные
+Translation of the Decision:
+-
+Task:
+Модель OSI Сеансовый
+Translation of the Task:
+-
+Decision:
+Управление сеансом связи (RPC, PAP, L2TP, gRPC). Хосты (клиенты сети), Межсетевой экран. Данные
+Translation of the Decision:
+-
+Task:
+Модель OSI Транспортный
+Translation of the Task:
+-
+Decision:
+Прямая связь между конечными пунктами и надёжность (TCP, UDP, SCTP). Хосты (клиенты сети), Межсетевой экран. Сегменты
+Translation of the Decision:
+-
+Task:
+Модель OSI Сетевой
+Translation of the Task:
+-
+Decision:
+Определение маршрута и логическая адресация (IPv4, IPv6, IPsec, AppleTalk, ICMP). Маршрутизатор, Сетевой шлюз, Межсетевой экран. 
+Translation of the Decision:
+-
+Task:
+Модель OSI Канальный
+Translation of the Task:
+-
+Decision:
+Физическая адресация (PPP, IEEE 802.22, Ethernet, DSL, ARP, сетевая карта). Сетевой мост, Коммутатор, точка доступа. Биты, Кадры
+Translation of the Decision:
+-
+Task:
+Модель OSI Физический
+Translation of the Task:
+-
+Decision:
+Работа со средой передачи, сигналами и двоичными данными (USB, RJ, радиоканал). Концентратор, Повторитель (сетевое оборудование). Биты
+Translation of the Decision:
+-
+Task:
+Модель TCP/IP
+Translation of the Task:
+-
+Decision:
+Описывает способ передачи данных от источника информации к получателю. 
+Translation of the Decision:
+-
+Task:
+Уровни Модель TCP/IP
+Translation of the Task:
+-
+Decision:
+Прикладной, Транспортный, Сетевой, Канальный.
+Translation of the Decision:
+-
+Task:
+Dns
+Translation of the Task:
+-
+Decision:
+Компьютерная распределённая система для получения информации о доменах, IP-адреса по имени хоста, информации о маршрутизации почты и/или обслуживающих узлах для протоколов в домене.
+Translation of the Decision:
+-
+Task:
+Nat
+Translation of the Task:
+Network Address Translation
+Decision:
+действует На сетевом уровне модели OSI, который осуществляет преобразование сетевых адресов пакетов данных в IP-сети. 
+Translation of the Decision:
+-
+Task:
+Ntp
+Translation of the Task:
+-
+Decision:
+Сетевой протокол для синхронизации системного времени компьютера через сетевое соединение, который позволяет получать точное время в локальной сети или в публичной сети Интернет.
+Translation of the Decision:
+-
+Task:
+Kerberos
+Translation of the Task:
+-
+Decision:
+Сетевой протокол аутентификации, который предлагает механизм взаимной аутентификации клиента и сервера перед установлением связи между ними. выполняет аутентификацию в качестве службы аутентификации доверенной третьей стороны, используя криптографический ключ. При этом пакеты, проходящие по незащищённой сети, могут быть перехвачены, модифицированы и использованы злоумышленником.
+Translation of the Decision:
+-
+Task:
+Маска подсети
+Translation of the Task:
+-
+Decision:
+битовая маска для определения по IP-адресу адреса подсети и адреса узла (хоста, компьютера, устройства) этой подсети.
+Translation of the Decision:
+-
+Task:
+Мак-адрес
+Translation of the Task:
+-
+Decision:
+уникальный идентификатор, присваиваемый каждой единице сетевого оборудования или некоторым их интерфейсам в компьютерных сетях Ethernet.
+Translation of the Decision:
+-
+Task:
+Ssl сертификаты
+Translation of the Task:
+-
+Decision:
+протокол шифрования и защиты данных, который используется для безопасного обмена данными между браузером и сайтом.
+Translation of the Decision:
+-
+Task:
+Cdn
+Translation of the Task:
+-
+Decision:
+нужна для быстрой доставки контента.
+Translation of the Decision:
+-
+Task:
+Коммутатор
+Translation of the Task:
+-
+Decision:
+свитч. устройство, которое «роднит» между собой разные узлы внутри одной локальной сети и организует обмен данными исключительно между ними.
+Translation of the Decision:
+-
+Task:
+Маршрутизатор
+Translation of the Task:
+-
+Decision:
+роутер. устройство, которое связывает между собой несколько разных сетей, позволяет проводить обмен информацией и маршрутизирует трафик.
+Translation of the Decision:
+-
+Task:
+IP
+Translation of the Task:
+-
+Decision:
+уникальный адрес, идентифицирующий устройство в интернете или локальной сети.
+Translation of the Decision:
+-
+Task:
+Cеть
+Translation of the Task:
+-
+Decision:
+совокупность устройств, которые подключены друг к другу и общающихся между собой.
+Translation of the Decision:
+-
+Task:
+IPv6 
+Translation of the Task:
+-
+Decision:
+протокол IP версии 6 является последним поколением протокола IP, определённого стандартом рабочей группы проектирования Интернета (IETF). 128-битная адресация. Отображение - Шестизначное число, разделенное двоеточием. Как пример 2001:DB8:0:1111::200. Сервер протокола - DHCPv6 (автоматическая настройка без учета состояния). Размер пакета - 1280 байт без фрагментации. Фрагментация пакетов - хосты. Заголовок - 40 байтов (двойной) на 8 полей.
+Translation of the Decision:
+-
+Task:
+IPv4
+Translation of the Task:
+-
+Decision:
+версия IP 4 — первая стабильная версия протокола IP. 32-битная адресация. Отображение - Четыре десятичных числа в 1 байт, разделенные точкой. Как пример, 178.142.2.1. Сервер протокола - DHCP (автоматически при каждом входе в сеть). Размер пакета - 576 байт с необязательной фрагментацией.  Фрагментация пакетов - маршрутизаторы и отправители хосты. Заголовок - 20 байтов, на 13 полей.
+Translation of the Decision:
+-
+Task:
+netstat    
+Translation of the Task:
+-
+Decision:
+для просмотра открытые порты локального компьютера.
+Translation of the Decision:
+-
+Task:
+Атака
+Translation of the Task:
+-
+Decision:
+Совокупность преднамеренных действий злоумышленника, направленных на нарушение одного из трех свойств информации - доступность, целостность и конфиденциальности.
+Translation of the Decision:
+-
+Task:
+Фишинг
+Translation of the Task:
+-
+Decision:
+попытка мошенников получить конфиденциальную информацию, маскируясь под доверенное лицо.
+Translation of the Decision:
+-
+Task:
+Социальная инженерия
+Translation of the Task:
+-
+Decision:
+совокупность психологических и социологических приёмов, методов и технологий, которые позволяют получить конфиденциальную информацию. 
+Translation of the Decision:
+-
+Task:
+Отказ в обслуживании (Dos)
+Translation of the Task:
+Denial of Service
+Decision:
+перегрузка информационной системы, в которой работает сервисы, с помощью сетевых запросов. 
+Translation of the Decision:
+-
+Task:
+Распределенный отказ в обслуживании (DDos)
+Translation of the Task:
+Distributed Denial of Service
+Decision:
+перегрузка информационной системы избыточным числом запросов, блокирующая обработку обращений.
+Translation of the Decision:
+-
+Task:
+Брандмауэр, межсетевой экран
+Translation of the Task:
+firewall
+Decision:
+технологический барьер, который защищает сеть от несанкционированного или нежелательного доступа.
+Translation of the Decision:
+-
+Task:
+KVM
+Translation of the Task:
+-
+Decision:
+эмулятор аппаратного обеспечения различных платформ, позволяющий запускать различные гостевые операционные системы. 
+Translation of the Decision:
+-
+Task:
+Packer
+Translation of the Task:
+-
+Decision:
+создавать образы ВМ для определенной платформы, готовый к использованию на конкретной облачной платформепеременных, задаваемых при создании виртуальной машины из образа
+Translation of the Decision:
+-
+Task:
+K8s
+Translation of the Task:
+Kubernetes
+Decision:
+это открытое программное обеспечение для автоматизации развёртывания, масштабирования и управления контейнеризированными приложениями. оптимально использует ресурсы системы. нужен, чтобы управлять большим количеством запущенных контейнеров, автоматизировать развёртывание, масштабировать приложения
+Translation of the Decision:
+-
+Task:
+кластеры Kubernetes
+Translation of the Task:
+-
+Decision:
+используются для управления даже небольшими системами, развёрнутыми в облаке
+Translation of the Decision:
+-
+Task:
+Amazon ECS
+Translation of the Task:
+-
+Decision:
+упрощает развертывание контейнеров Docker и управление ими в любом масштабе.
+Translation of the Decision:
+-
+Task:
+файл hosts
+Translation of the Task:
+-
+Decision:
+Разрешает доступ к ресурсам, Задает приоритет перед DNS, Позволяет попасть на сайт.
+Translation of the Decision:
+-
+Task:
+Транспортная сеть (TN, ТС)
+Translation of the Task:
+-
+Decision:
+совокупность ресурсов, которые связывают между собой различные подсистемы оператора и обеспечивают связь со сторонними операторами и поставщиками услуг.
+Translation of the Decision:
+-
+Task:
+уровни транспортной сети
+Translation of the Task:
+-
+Decision:
+Уровень доступа: подключение базовой станции к сети региона - В каждом регионе несколько сотен БС. Каждая из них связывается со своей узловой БС через РРЛ пролёт или напрямую. На каждой узловой станции находится узел доступа или агрегации (aka «железяка, которая всё соединяет»), который передаёт всю информацию на следующий уровень.
+Уровень агрегации: распределение трафика - Когда данные от базовой станции поступают к уровню доступа (узловой БС), нужно их передавать дальше — на уровень агрегации. Тут вступают в игру оптические линии связи, которые соединяют несколько маршрутизаторов между собой. Оптические линии увеличивают пропускную способность и надёжность связи.
+Уровень ядра: связь с внешним интернетом - Вся информация с транспортной сети региона наконец добирается до центральных маршрутизаторов. Здесь информация тоже резервируется по двум линиям.
+Translation of the Decision:
+-
+Task:
+PS Core
+Translation of the Task:
+-
+Decision:
+система серверов, которая позволяет выходить в интернет с телефона
+Translation of the Decision:
+-
+Task:
+Центр аутентификации (AUC)
+Translation of the Task:
+-
+Decision:
+И физически, и логически AUC является базой данных, интегрированной в HLR. Там хранятся данные, которые необходимы для аутентификации абонента.
+Translation of the Decision:
+-
+Task:
+Baseland
+Translation of the Task:
+-
+Decision:
+системный модуль BB6630
+Translation of the Decision:
+-
+Task:
+Радиорелейные линии (РРЛ)
+Translation of the Task:
+-
+Decision:
+вид радиосвязи, который образуется в результате работы цепочки принимающих и передающих радиостанций.
+Translation of the Decision:
+-
+Task:
+Волоконно-оптические линии связи (ВОЛС)
+Translation of the Task:
+-
+Decision:
+система передачи данных в оптическом диапазоне.
+Translation of the Decision:
+-
+Task:
+Sim-карта
+Translation of the Task:
+-
+Decision:
+Модуль для идентификации пользователя.
+Translation of the Decision:
+-
+Task:
+контроллер базовых станций (BSC)
+Translation of the Task:
+Base station Controller
+Decision:
+отвечает за установление, поддержание и разъединение пакетных и голосовых соединений через BSS, разделяет пакетный и голосовой трафик. Пакетный отправляется к SGSN, а голосовой к TC и далее к MSC. С другой стороны BSC отвечает за установление, поддержание и разъединение соединений между BTS и MS, за выбор скорости передачи (типа кодека), принимает решение на хэндовер на основе измерений, полученных от MS и выполняет ряд других функций.
+Translation of the Decision:
+-
+Task:
+Контроллер
+Translation of the Task:
+-
+Decision:
+Управляет очередностью соединений и распределяет радиоканалы, в том числе управляет процедурой handocer, то есть переключает ваш телефон с одной БС на другой.
+Translation of the Decision:
+-
+Task:
+MSC
+Translation of the Task:
+Mobile switching center
+Decision:
+Центр коммутации мобильной связи. Управляет трафиком, контролируя все входящие и исходящие вызовы, проверяя подлинность id абонента и его мобильного устройства и осуществляя маршрутизацию звонков.
+Translation of the Decision:
+-
+Task:
+Пакет
+Translation of the Task:
+-
+Decision:
+единица передачи информации в вычислительных сетях. На исходном сервере файлы, звуки, видео и другая информация разбиваются на небольшие порции c индивидуальным заголовком — это и есть пакет. Приёмник преобразовывает отдельные пакеты обратно в поток информации.
+Translation of the Decision:
+-
+Task:
+Отказоустойчивость
+Translation of the Task:
+-
+Decision:
+Способность системы продолжить работу при неработоспособности одного или нескольких компонентов.
+Translation of the Decision:
+-
+Task:
+Метрика
+Translation of the Task:
+-
+Decision:
+Количественная характеристика системы, меняющаяся во времени.
+Translation of the Decision:
+-
+Task:
+Отказоустойчивая система
+Translation of the Task:
+-
+Decision:
+имеет избыточность ресурсов, способна работать даже в случае отказа на уровне дата-центра, продолжает работать при выходе из строя одного из ее компонентов.
+Translation of the Decision:
+-
+Task:
+Selinux
+Translation of the Task:
+-
+Decision:
+предоставляет различные политики безопасности для ядра Linux, которая позволяет контролировать доступ процессов к файлам в файловой системе, определяет правила доступа процесса к объектам с определенными метками в системе (Каждый файл, каталог, порт, устройство, имена хостов и пользователь).
+Translation of the Decision:
+-
+Task:
+обязательный контроль доступа (MAC)
+Translation of the Task:
+Mantuserry Access Control
+Decision:
+определяет правила доступа процесса к объектам с определенными метками в системе (Каждый файл, каталог, порт, устройство, имена хостов и пользователь).
+Translation of the Decision:
+-
+Task:
+Rpo
+Translation of the Task:
+-
+Decision:
+Это то сколько времени можно потерять при аварии.
+Translation of the Decision:
+-
+Task:
+Rto
+Translation of the Task:
+-
+Decision:
+сколько времени займет на восстановление работоспособности системы после аварии.
+Translation of the Decision:
+-
+Task:
+UAC
+Translation of the Task:
+-
+Decision:
+нужен Для работы usb-службы, Для удаленного подключения к компьютеру, Для обеспечения безопасности, ограничения и контроля действий пользователя.
+Translation of the Decision:
+-
+Task:
+объект групповой политики
+Translation of the Task:
+-
+Decision:
+Общее название набора файлов, директорий и записей в базе Active Directory (если это не локальный объект), которые хранят ваши настройки и определяют, какие ещё параметры вы можете изменить с помощью групповых политик.
+Translation of the Decision:
+-
+Task:
+групповая политика
+Translation of the Task:
+-
+Decision:
+Набор правил или настроек, в соответствии с которыми производится настройка рабочей среды приёма/передачи.
+Translation of the Decision:
+-
+Task:
+dmesg
+Translation of the Task:
+-
+Decision:
+утилиту для установления идентификаторов запросов прерываний, резервируемых для определенных устройств в процессе загрузки системы.
+Translation of the Decision:
+-
+Task:
+Active Directory
+Translation of the Task:
+-
+Decision:
+Active Directory использует DNS как механизм поиска контроллеров домена и других объектов.
+Translation of the Decision:
+-
+Task:
+Get 
+Translation of the Task:
+-
+Decision:
+передает данные в Url через ссылку.
+Translation of the Decision:
+-
+Task:
+Post
+Translation of the Task:
+-
+Decision:
+Запрос передает данные в теле запроса.
+Translation of the Decision:
+-
+Task:
+Wget
+Translation of the Task:
+-
+Decision:
+сохраняет запрашиваемую веб-страницу в системе.
+Translation of the Decision:
+-
+Task:
+curl
+Translation of the Task:
+-
+Decision:
+отображает ее в выводе терминала, но не сохраняет.
+Translation of the Decision:
+-
+Task:
+admx
+Translation of the Task:
+-
+Decision:
+описывать групповые политики операционной системы (ОС), поставляемые вместе с Windows, либо описывать параметры приложений, которые являются отдельными от ОС и обычно могут быть загружены и установлены на компьютере.
+Translation of the Decision:
+-
+Task:
+lsmod
+Translation of the Task:
+-
+Decision:
+утилита управления модулями ядра, которые покажут что у нас есть в составе системы, какие у нас есть модули ядра, которые отвечают за какие то устройства.
+Translation of the Decision:
+-
+Task:
+lspci
+Translation of the Task:
+-
+Decision:
+список всех подсоединенных к системе устройств PCI. 
+Translation of the Decision:
+-
+Task:
+lsusb
+Translation of the Task:
+-
+Decision:
+список всех устройств usb, соединенных с вашей системой. /proc/bus/usb/devices.
+Translation of the Decision:
+-
+Task:
+proc
+Translation of the Task:
+-
+Decision:
+текущие их процессы, их PID по директориям.
+Translation of the Decision:
+-
+Task:
+A записи
+Translation of the Task:
+-
+Decision:
+могут принимать только IP-адрес в качестве значения,  Вы можете направить один и тот же домен / поддомен на несколько IP-адресов, просто добавив еще одну запись A с тем же именем, но с другим IP-адресом в поле значение.
+Translation of the Decision:
+-
+Task:
+запись quad-A (AAAA)
+Translation of the Task:
+-
+Decision:
+указывает адрес IPv6 для данного хоста. Таким образом, он работает так же, как запись A, и разница заключается в типе IP-адреса.
+Translation of the Decision:
+-
+Task:
+запись канонического имени (CNAME)
+Translation of the Task:
+Canonical Name Record
+Decision:
+используется для создания псевдонима для существующей  A и AAAA записи. При этом в поле со значением заполняется именем домена, которое ранее было связано с IP-адресом в файле. Таким образом, разные адреса могут ссылаться на один и тот же сервер. Например, псевдоним «service.google.ru» может использоваться для указания на существующую A-запись «story.google.ru», где размещен сервис.
+Translation of the Decision:
+-
+Task:
+почтовый обмен (MX)
+Translation of the Task:
+Mail Exchange
+Decision:
+используется специально для отправки электронной почты и указывает сервер обмена почтой для доменного имени DNS. Эта информация используется протоколом SMTP для маршрутизации электронной почты на соответствующие узлы. Здесь определен один или несколько почтовых серверов, которые принадлежат соответствующему домену. При использовании нескольких почтовых серверов (например, для компенсации сбоя), лучше сразу указать разные уровни приоритета. 
+Translation of the Decision:
+-
+Task:
+Запись PTR
+Translation of the Task:
+-
+Decision:
+обратная запись A, где поле «имя» содержит информацию о IP-адресе, а поле «значение» содержит строку имени хоста. Запись PTR используется для сопоставления IP-адреса с соответствующим именем хоста, обычно используется для определения того, какое имя хоста использует указанный IP-адрес.
+Translation of the Decision:
+-
+Task:
+текстовая запись (TXT)
+Translation of the Task:
+-
+Decision:
+используется для предоставления информации о домене. TXT может быть создан в любой зоне в виде статической или динамической записи. Поле «имя» и поле «значение» могут быть заполнены чем угодно, как того требует программа или протокол. TXT запись часто используется для подтверждения владение доменом ( например, при добавлении Google-метрики на сайт).
+Translation of the Decision:
+-
+Task:
+служебная запись (SRV)
+Translation of the Task:
+-
+Decision:
+тип DNS-записи, используемой для указания служб. Запись SRV предоставляет информацию о том, какие службы доступны в определенной зоне или домене. Запись SRV имеет формат для поле «имя», где она начинается с имени службы, имени протокола, а затем имени зоны или домена. А поле  «значение» будет содержать несколько сведений, таких как приоритет, вес, номер порта службы и имя хоста, на котором находится служба.
+Translation of the Decision:
+-
+Task:
+NS запись
+Translation of the Task:
+-
+Decision:
+цель - связывать домен и хостинг, в ней  содержится список доверенных серверов имен для домена. Для этого нужно добавить в запись NS-сервера, которые предоставляет Ваш текущий хостинг провайдер для той или иной услуги. Минимум может быть два NS-сервера
+Translation of the Decision:
+-
+Task:
+SOA запись 
+Translation of the Task:
+Start of Authority
+Decision:
+запись DNS, которая содержит имя сервера, на котором хранится вся информация, касающаяся этой записи. Он включает в себя достоверную информацию, такую как идентификационный номер сервера, ответственный почтовый адрес, основной сервер имен и т. д. Предполагается, что сервер, на который есть ссылка в записи SOA, отвечает за любой процесс в соответствующей записи.
+Translation of the Decision:
+-
+Task:
+Nslookup
+Translation of the Task:
+-
+Decision:
+Утилита для DNS, предоставляющая пользователю интерфейс командной строки для обращения к системе DNS (проще говоря, DNS-клиент). Позволяет задавать различные типы запросов и опрашивать произвольно указываемые сервера.
+Translation of the Decision:
+-
+Task:
+LTE
+Translation of the Task:
+-
+Decision:
+4g, 800 (_081), 1800(_011), 2300(_031), 2600 (_021)
+Translation of the Decision:
+-
+Task:
+WSDMA
+Translation of the Task:
+-
+Decision:
+3G
+Translation of the Decision:
+-
+Task:
+GSM
+Translation of the Task:
+-
+Decision:
+2G, 900, 1800
+Translation of the Decision:
+-
+Task:
+UMTS
+Translation of the Task:
+-
+Decision:
+3G, 900, 2100
+Translation of the Decision:
+-
+Task:
+RETs
+Translation of the Task:
+-
+Decision:
+Электрический угол наклона антенн от вертикали и механический угол (руками)
+Translation of the Decision:
+-
+Task:
+LAC
+Translation of the Task:
+Location area code
+Decision:
+происходит поиск абонента при входящем звонке
+Translation of the Decision:
+-
+Task:
+TAC
+Translation of the Task:
+Tracking area code
+Decision:
+коды отслеживания.
+Translation of the Decision:
+-
+Task:
+RAC
+Translation of the Task:
+Routing Area Code
+Decision:
+коды маршрутизаци
+Translation of the Decision:
+-
+Task:
+NetAct, ENM11
+Translation of the Task:
+-
+Decision:
+Система управления базовыми станциями
+Translation of the Decision:
+-
+Task:
+BTS 
+Translation of the Task:
+Base Transceiver Station
+Decision:
+Комплекс радиопередающей аппаратуры, по факту пара железных ящиков и несколько антен, принимающих или передающих сигнал от телефона к телефону.
+Translation of the Decision:
+-
+Task:
+Docker
+Translation of the Task:
+-
+Decision:
+можно создавать образы контейнеров на основе готовых образов с определёнными операционными системами
+Translation of the Decision:
+-
+Task:
+Образы в Docker
+Translation of the Task:
+-
+Decision:
+можно хранить в публичном или приватном хранилище образов, в том числе в Docker Hub и в Yandex Container Registry
+Translation of the Decision:
+-
+Task:
+алгоритм
+Translation of the Task:
+-
+Decision:
+Формально описанная последовательность действий.
+Translation of the Decision:
+-
+Task:
+псевдокод
+Translation of the Task:
+-
+Decision:
+Неформальный язык для описания элементов программ.
+Translation of the Decision:
+-
+Task:
+операция
+Translation of the Task:
+-
+Decision:
+Действие или их совокупность для достижения определенной цели.
+Translation of the Decision:
+-
+Task:
+условное ветвление
+Translation of the Task:
+-
+Decision:
+Базовая конструкция, обеспечивающая выполнение команд программы при истинности логического утверждения.
+Translation of the Decision:
+-
+Task:
+массив
+Translation of the Task:
+-
+Decision:
+Непрерывное хранилище однотипной информации.
+Translation of the Decision:
+-
+Task:
+множества
+Translation of the Task:
+-
+Decision:
+Изменяемая коллекция данных, Неиндексируемая коллекция, Состоит только из уникальных элементов.
+Translation of the Decision:
+-
+Task:
+Yandex API Gateway
+Translation of the Task:
+-
+Decision:
+Прокси-сервер
+Translation of the Decision:
+-
+Task:
+Yandex Network Load Balancer
+Translation of the Task:
+-
+Decision:
+Обеспечивает отказоустойчивость, Распределяет веб-трафик.
+Translation of the Decision:
+-
+Task:
+Балансировщик
+Translation of the Task:
+-
+Decision:
+узнать о состоянии ресурсов.
+Translation of the Decision:
+-
+Task:
+Yandex.Cloud (CLI)
+Translation of the Task:
+-
+Decision:
+бесплатная утилита, которую можно использовать для управления ресурсами в Yandex Cloud. Использование CLI не тарифицируется.
+Translation of the Decision:
+-
+Task:
+Квота
+Translation of the Task:
+-
+Decision:
+количество ресурсов, которое пользователь с определённой ролью может употребить.
+Translation of the Decision:
+-
+Task:
+Yandex Managed Kubernetes
+Translation of the Task:
+-
+Decision:
+Сервис для управления контейнеризованными приложениями с помощью Kubernetes в инфраструктуре Yandex Cloud.
+Translation of the Decision:
+-
+Task:
+Serverless
+Translation of the Task:
+-
+Decision:
+нужны для оповещения администраторов о возникновении критической ситуации в системе и для оповещения администраторов о приближающейся критической ситуации в системе.
+Translation of the Decision:
+-
+Task:
+Inner join
+Translation of the Task:
+-
+Decision:
+Возвращаются только те строки, где ключевые значения совпадают в обеих таблицах.
+Translation of the Decision:
+-
+Task:
+Self Join
+Translation of the Task:
+-
+Decision:
+это операция объединения таблицы с самой собой. Это означает, что при SELF JOIN таблица используется дважды в одном запросе. Чтобы не путаться, каждое вхождение таблицы в команде использует псевдоним.
+используется в случаях, когда нужно проанализировать зависимости внутри одной таблицы. Самый частый пример использования SELF JOIN — обработка деревьев или графов, которые хранятся в одной таблице.
+Translation of the Decision:
+-
+Task:
+Cross Join
+Translation of the Task:
+-
+Decision:
+позволяет получить декартово произведение (результат соединения строки из первой таблицы с каждой строкой из второй  таблицы) нескольких таблиц. особенно полезен, когда между таблицами нет определенной связи, и вам нужно создать полную комбинацию записей из каждой таблицы.
+Translation of the Decision:
+-
+Task:
+Left Outher Join 
+Translation of the Task:
+-
+Decision:
+используется для объединения двух таблиц, но с сохранением всех записей из левой таблицы, в том числе и тех, для которых нет соответствующих записей в правой таблице.
+Он возвращает все строки из левой таблицы и совпадающие строки из правой таблицы. Если совпадений нет, то для столбцов правой таблицы используются значения NULL.
+Translation of the Decision:
+-
+Task:
+Right Outher Join 
+Translation of the Task:
+-
+Decision:
+используется для объединения двух таблиц, но для сохранения всех записей из правой таблицы, в том числе и тех, для которых нет соответствующих записей в левой таблице.
+Он возвращает все строки из правой таблицы и совпадающие строки из левой таблицы. Если совпадений нет, то для столбцов левой таблицы используются значения NULL.
+Translation of the Decision:
+-
+Task:
+Full Outher Join 
+Translation of the Task:
+-
+Decision:
+используется для объединения двух таблиц с сохранением всех записей, включая те, для которых нет соответствующих записей в другой таблице.
+Он возвращает все строки, если есть совпадение либо в левой, либо в правой таблице. Если совпадения нет, то в столбцах таблицы, в которой нет совпадения, используются значения NULL.
+Translation of the Decision:
+-
+Task:
+Реляционная бд
+Translation of the Task:
+-
+Decision:
+представляют собой базы данных, которые используются для хранения и предоставления доступа к взаимосвязанным элементам информации.
+В рамках SQL используются также встроенные языки реляционных баз данных: DDL для таблиц (применяют для описания данных) и DML для работы с данными. MySQL, SQLite, PostgreSQL
+Translation of the Decision:
+-
+Task:
+Нереляционная бд
+Translation of the Task:
+-
+Decision:
+В них хранящаяся информация напрямую зависит от особенностей самой базы данных. К примеру, в случае с документоориентированной БД информация может быть представлена в виде иерархии и описывать различные объекты с разными параметрами. ElasticSearch, MongoDB, Amazon DynamoDB, Cassandra, HBase
+Translation of the Decision:
+-
+Task:
+репликации БД
+Translation of the Task:
+-
+Decision:
+набор технологий, позволяющий копировать, распространять и синхронизировать определенные типы объектов базы данных и связанных с ними данных и зависимостей между ними из одной базы данных в одну или несколько других баз данных в одном и том же экземпляре или в разных экземплярах SQL Server
+Translation of the Decision:
+-
+Task:
+Транзакция БД
+Translation of the Task:
+-
+Decision:
+набор операций по работе с базой данных (БД), объединенных в одну атомарную пачку.
+Translation of the Decision:
+-
+Task:
+Транзакция
+Translation of the Task:
+-
+Decision:
+архив для запросов к базе. Он защищает ваши данные благодаря принципу "всё, или ничего".
+Translation of the Decision:
+-
+Task:
+MongoDB
+Translation of the Task:
+-
+Decision:
+документо-ориентированная Модель данных
+Translation of the Decision:
+-
+Task:
+ClickHouse
+Translation of the Task:
+-
+Decision:
+для онлайн-обработки аналитических запросов
+Translation of the Decision:
+-
+Task:
+Amazon DynamoDB
+Translation of the Task:
+-
+Decision:
+ПО, принадлежащее Amazon, предназначенное для использования в небольших приложениях. Позволяет обрабатывать огромное количество инструкций в кратчайшие сроки.
+Translation of the Decision:
+-
+Task:
+PowerPivot (PPM)
+Translation of the Task:
+-
+Decision:
+Создание и удаление модели
+Translation of the Decision:
+-
+Task:
+CS core
+Translation of the Task:
+Circuit Switch Core
+Decision:
+получить вызов от абонента, собрать все данные из нужных систем, а затем направить этот вызов другому абоненту. подсистема голосовой коммутации, входящая в структуру любой сети сотовой связи.
+Translation of the Decision:
+-
+Task:
+коммутатор MSC.
+Translation of the Task:
+-
+Decision:
+Устанавливает соединение между абонентами сети.
+Translation of the Decision:
+-
+Task:
+Транспортная сеть внутри региона
+Translation of the Task:
+-
+Decision:
+обеспечить связь каждой базовой станции с контроллером БС.
+Translation of the Decision:
+-
+Task:
+У вас остались к нам вопросы?
+Translation of the Task:
+-
+Decision:
+Как развивается процесс работы? 
+Есть ли возможность обучиться? Компания за курсы оплачивает? 
+Что в первый день происходит? 
+С кем я буду работать? Будет ли напарник? 
+Меня сразу в проект добавляют? 
+Какие технологии используете? 
+Как проиходит процесс повышения зарплаты? Может как то контролируется по том как я работаю или какие-то уровни у вас есть? 
+Что вы ожидаете от сотрудника в первые месяцы сотрудника? 
+В связи с чем открылась данная позиция и если это замена, то с чем не справился предыдущий сотрудник? 
+Как вы считаете, чего в моем опыте может не хватить для данной позиции?	
+Какой сотрудник, на ваш взгляд, идеальнно впишется в команду?
+Translation of the Decision:
+-
+Task:
+Что будете делать первые 30 дней?
+Translation of the Task:
+-
+Decision:
+Буду готовиться и знакомиться с процессом работы и с коллективом. 
+Изучать инструменты, необходимые для работы.
+Translation of the Decision:
+-
+Task:
+Расскажите о себе.
+Translation of the Task:
+-
+Decision:
+Меня зовут Давид. Я специалист в области информационных технологий. У меня более 5 лет опыта в администрировании серверов различных ОС и в разработки скриптов, ПО и БД. В текущем месте работы внедряю специализированные программные обеспечения, ввожу в эксплуатацию технику принтеры, сканеры, компьютеры и администрирую сервера и виртуальные машины на windows. Для саморазвития я в свободное время читаю и перевожу техническую документацию на английском языке, программирую на Python и C++, администрирую свой веб-сервер и разрабатываю сайт-портфолио. Имеются свои проекты в github. Мне интересно работать в команде, активно развиваться в программировании и изучать новые технологии.
+Translation of the Decision:
+-
+Task:
+Почему мы должны выбрать именно вас?
+Translation of the Task:
+-
+Decision:
+Несмотря на то, что у меня мало опыта в данной области, я много времени потратил на развитие навыков, которые необходимы для данной роли. Кроме того мне интересно все, что связано с разработкой, поэтому я прохожу много курсов данную тему.
+Translation of the Decision:
+-
+Task:
+Не можешь решить задачу что ответить?
+Translation of the Task:
+-
+Decision:
+Не могу дать ответ вам прям сейчас, но уже завтра могу написать пост по данному вопросу. Потому что я могу быстро выучить это, стать профессионалом в данной области и добавить еще новый навык в багаж знаний.
+Translation of the Decision:
+-
+Task:
+yc
+Translation of the Task:
+-
+Decision:
+управлять сервисами Yandex Cloud.
+Translation of the Decision:
+-
