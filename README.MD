@@ -284,7 +284,7 @@
     6. sql_scripts - Каталог, необязательный. Если вы включаете в main.py какие-то SQL скрипты, вынесенные в отдельные файлы – помещайте их сюда.<br>
     7. py_scripts - Каталог, необязательный. Если вы включаете в main.py какие-то python скрипты, вынесенные в отдельные файлы – помещайте их сюда.<br>
     <strong>Decision:</strong><br>
-    проект находится в папке Projects (BankDataWarehouse)<br>
+    проект находится в папке Projects (parsingEtlWarehouse)<br>
     1. Команды для настройки проекта:<br>
     mkdir archive<br>
     touch snippet_pg.py<br>
