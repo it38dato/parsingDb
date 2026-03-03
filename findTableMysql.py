@@ -25,13 +25,22 @@ while True:
     match choiceDB:
         case "Nokia":
             print("+ Выбрана БД Nokia")
-
-            conn = mysql.connector.connect(
-                    host=listDataFile[23],
+            print("!")
+            try:
+                print(f"Попытка подключения к {listDataFile[23]}...")
+                conn = mysql.connector.connect(
+                    host=listDataFile[23],  # .strip() уберет лишние пробелы/переносы
                     user=listDataFile[17],
                     password=listDataFile[19],
+                    use_pure=True,  # Использовать реализацию на Python вместо C
+                    #connect_timeout=10
                 )
-            cursor = conn.cursor()
+                cursor = conn.cursor()
+                print("+ Подключение успешно")
+            except Exception as e:
+                print(f"- Ошибка подключения: {e}")
+                break  # Прервать цикл, если БД недоступна
+
         case "Ericsson":
             print("+ Выбрана БД Ericsson")
 
@@ -39,6 +48,7 @@ while True:
                     host=listDataFile[21],
                     user=listDataFile[17],
                     password=listDataFile[19],
+                    use_pure=True,
                 )
             cursor = conn.cursor()
         case "Django":
@@ -48,6 +58,7 @@ while True:
                     host=listDataFile[7],
                     user=listDataFile[3],
                     password=listDataFile[5],
+                    use_pure=True,
                 )
             cursor = conn.cursor()
         

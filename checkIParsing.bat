@@ -7,7 +7,7 @@ if %errorlevel% neq 0 (
     exit /b 1
 )
 set /p name="Enter the project name: "
-SET VENV_NAME=envParserDB2
+SET VENV_NAME=envParserDB
 SET VENV_PATH=%USERPROFILE%\%VENV_NAME%
 SET REQS_FILE=requirements.txt
 ::SET PROJECT_NAME=parserDB
